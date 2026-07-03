@@ -1,10 +1,6 @@
-\# Belajar Git
+\## Branch belajar
 
 
 
-Repository latihan Git \& GitHub.
-
-
-
-Belajar bersama ChatGPT 🚀
+Ini perubahan di branch belajar-branch.
 
