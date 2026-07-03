@@ -1,2 +1,10 @@
-Ini project pertama saya
+\# Belajar Git
+
+
+
+Repository latihan Git \& GitHub.
+
+
+
+Belajar bersama ChatGPT 🚀
 
